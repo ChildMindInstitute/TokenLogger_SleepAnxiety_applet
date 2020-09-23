@@ -4,7 +4,7 @@
     ],
     "@type": "reproschema:Protocol",
     "@id": "TokenLogger_sleep_schema",
-    "skos:prefLabel": "TokenLogger_sleep",
+    "skos:prefLabel": "TokenLogger Sleep",
     "schema:description": "protocol for TokenLogger_sleep",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
