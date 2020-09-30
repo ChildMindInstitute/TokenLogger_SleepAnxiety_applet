@@ -5,7 +5,7 @@
     "@type": "reproschema:Protocol",
     "@id": "TokenLogger_sleep_schema",
     "skos:prefLabel": "TokenLogger Sleep",
-    "schema:description": "protocol for TokenLogger_sleep",
+    "schema:description": "Protocol for TokenLogger sleep",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
     "landingPage": "https://raw.githubusercontent.com/ChildMindInstitute/TokenLogger_sleep_applet/master/protocols/TokenLogger_sleep/README.md",
