@@ -19,16 +19,19 @@
         "choices": [{
             "@type": "schema:option",
             "schema:name": "Going up to bed after being asked the first time",
+            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/sleep.png",
             "schema:value": 1
         },
         {
             "schema:name": "Staying in her room the whole night",
             "@type": "schema:option",
+            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/stay_room.png",
             "schema:value": 2
         },
         {
             "schema:name": "Sleeping with her light off / not having it be on in the morning",
             "@type": "schema:option",
+            "schema:image": "https://raw.githubusercontent.com/ChildMindInstitute/tokenlogger-images/main/png/lightswitch.png",
             "schema:value": 3
         }]
     }
